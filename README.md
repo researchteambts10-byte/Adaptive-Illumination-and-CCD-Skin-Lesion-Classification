@@ -102,6 +102,9 @@ The ALN-C2D-DCNN model operates in four major phases:
 
 ---
 
+📄 License
+
+This project is distributed under the MIT License.
 
 
 
