@@ -16,21 +16,21 @@ Using a custom **Deep Convolutional Neural Network (DCNN)**, this framework achi
 
 ## 💻 Code Information
 ### Project Structure
-project/
-|-- data/
-|   |-- train/
-|   |-- test/
-|   `-- metadata.csv
-|-- models/
-|   `-- aln_c2d_dcnn.py
-|-- utils/
-|   |-- preprocessing.py
-|   |-- segmentation.py
-|   `-- evaluation.py
-|-- requirements.txt
-|-- train.py
-|-- test.py
-`-- README.md
+├── data/
+│ ├── train/
+│ ├── test/
+│ └── metadata.csv
+├── models/
+│ └── aln_c2d_dcnn.py
+├── utils/
+│ ├── preprocessing.py
+│ ├── segmentation.py
+│ └── evaluation.py
+├── requirements.txt
+├── train.py
+├── test.py
+└── README.md
+
 
 
 
