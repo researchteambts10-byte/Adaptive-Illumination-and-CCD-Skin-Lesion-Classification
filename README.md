@@ -37,20 +37,22 @@ The ALN-C2D-DCNN model operates in four major phases:
 
 ## 💻 Code Information
 ### Project Structure
-├── data/
-│   ├── train/
-│   ├── test/
-│   └── metadata.csv
-├── models/
-│   └── aln_c2d_dcnn.py
-├── utils/
-│   ├── preprocessing.py
-│   ├── segmentation.py
-│   └── evaluation.py
-├── requirements.txt
-├── train.py
-├── test.py
-└── README.md
+project/
+|-- data/
+|   |-- train/
+|   |-- test/
+|   `-- metadata.csv
+|-- models/
+|   `-- aln_c2d_dcnn.py
+|-- utils/
+|   |-- preprocessing.py
+|   |-- segmentation.py
+|   `-- evaluation.py
+|-- requirements.txt
+|-- train.py
+|-- test.py
+`-- README.md
+
 
 
 ### Core Modules
