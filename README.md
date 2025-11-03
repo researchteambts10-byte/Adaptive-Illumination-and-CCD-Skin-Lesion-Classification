@@ -45,8 +45,9 @@ project/
 ## 🚀 Usage Instructions
 1. **Clone the repository**
    ```bash
-   [git clone https://github.com/yourusername/ALN-C2D-DCNN.git
-   cd ALN-C2D-DCNN](https://github.com/researchteambts10-byte/Adaptive-Illumination-and-CCD-Skin-Lesion-Classification/tree/main)
+   git clone https://github.com/researchteambts10-byte/Adaptive-Illumination-and-CCD-Skin-Lesion-Classification.git
+   cd Adaptive-Illumination-and-CCD-Skin-Lesion-Classification
+
    
 2. **Install dependencies**
     pip install -r requirements.txt
