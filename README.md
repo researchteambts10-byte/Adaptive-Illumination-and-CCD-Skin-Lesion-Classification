@@ -34,7 +34,7 @@ project/
 
 
 
-### Core Modules
+## Core Modules
 - `preprocessing.py` – Adaptive Illumination Normalization (CIF computation)
 - `segmentation.py` – C2D Segmentation and ROI extraction
 - `train.py` – CNN model training with transfer learning
@@ -67,7 +67,7 @@ project/
     - False Classification Ratio: <3%
     - Reduced Time Complexity: ~29.7%
 
-⚙️ Requirements
+## ⚙️ Requirements
 
 | Component          | Details                                                         |
 | ------------------ | --------------------------------------------------------------- |
@@ -102,7 +102,7 @@ The ALN-C2D-DCNN model operates in four major phases:
 
 ---
 
-📄 License
+## 📄 License
 
 This project is distributed under the MIT License.
 
