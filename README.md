@@ -101,16 +101,6 @@ The ALN-C2D-DCNN model operates in four major phases:
 
 ---
 
-📊 Performance Summary
-
-| Model                       | Accuracy (%) | False Ratio (%) | Time Complexity (%) |
-| --------------------------- | ------------ | --------------- | ------------------- |
-| MB-DCNN                     | 79           | 21              | 66.0                |
-| DeepMetaForge               | 85           | 15              | 57.3                |
-| STGAN                       | 90           | 10              | 51.0                |
-| **ALN-C2D-DCNN (Proposed)** | **99**       | **3**           | **29.7**            |
-
-
 
 
 
